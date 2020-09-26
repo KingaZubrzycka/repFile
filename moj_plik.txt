@@ -1,2 +1,2 @@
 Select * FROM Table
-i coś jeszcze
+i coś jeszcze i jeszcze to
